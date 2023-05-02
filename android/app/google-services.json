@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281371023614",
+    "project_id": "realtors-application",
+    "storage_bucket": "realtors-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281371023614:android:e66e184232afa816c2adaf",
+        "android_client_info": {
+          "package_name": "com.example.my_smartrealtors_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281371023614-9co37p6ps530s3lregjb37qmn44j8ebg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6WJotVs-xExEdnfk1FH5XwwgkUFNsvK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281371023614-9co37p6ps530s3lregjb37qmn44j8ebg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
